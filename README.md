@@ -6,7 +6,7 @@ to generate model from mysql tables
 
 to generate service from mysql tables
 
-to generate controller from model and service
+to generate spring mvc controller from model and service
 
 to generate .proto from model
 
